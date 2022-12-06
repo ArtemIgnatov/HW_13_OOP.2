@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{C935EB5C-5251-4AF3-B7A1-235766D205AE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HW_13/DepositeAccount.cs">
+    <Files>
+      <File FileName="HW_13/Program.cs" Line="14" Column="10" />
+      <File FileName="HW_13/Client.cs" Line="202" Column="12" />
+      <File FileName="HW_13/Manager.cs" Line="90" Column="61" />
+      <File FileName="HW_13/Consultant.cs" Line="98" Column="1" />
+      <File FileName="HW_13/Menu.cs" Line="121" Column="80" />
+      <File FileName="HW_13/BankAccount.cs" Line="89" Column="41" />
+      <File FileName="HW_13/DepositeAccount.cs" Line="54" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HW_13" expanded="True">
+            <Node name="HW_13" expanded="True">
+              <Node name="DepositeAccount.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HW__13 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
